@@ -4,6 +4,10 @@ Fork del proyecto https://github.com/TheAbhijeet/Django_blog
 
 A blog application made on Django.
 
+## Cambios
+
+- Creación de login
+
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38559396/55287491-12c4de80-53c7-11e9-8c6a-3f02b79ba9ca.gif)
 
 **Release 1.0** -Blog application made with Django, To learn more read https://djangocentral.com/building-a-blog-application-with-django
@@ -28,6 +32,7 @@ Using Environment Variables In Django, To learn more read - https://djangocentra
 How To Deploy Django App with Nginx, Gunicorn, PostgreSQL and Let’s Encrypt SSL on Ubuntu - https://djangocentral.com/deploy-django-with-nginx-gunicorn-postgresql-and-lets-encrypt-ssl-on-ubuntu/
 
 # Contributors
+
 Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.<br/><br/>
 
 Please star the repo and feel free to make pull requests. <br/><br/>
